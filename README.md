@@ -75,6 +75,10 @@ About
 
 When Bitcoin first appeared, people did not know what encrypted money was. So some people only bit coin mined. Bitcoin Reboot is not just a blockchain for some people. Everyone has a chance to get a Bitcoin. In addition to the decentralization of technological meanings, we try to increase the liquidity of the encryption currency by deriving the decentralization of ownership at the beginning of the blockchain.
 
+Website
+--------------
+[https://www.btcreboot.org](https://www.btcreboot.org/)
+
 Explorer
 --------------
 [Bitcoin Reboot Explorer](http://35.189.150.224:3001/)
