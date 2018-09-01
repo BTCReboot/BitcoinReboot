@@ -83,3 +83,7 @@ Explorer
 --------------
 [Bitcoin Reboot Explorer](http://35.189.150.224:3001/)
 
+Telegram
+--------------
+[Bitcoin Reboot Telegram](https://t.me/joinchat/A3j_8xGE7FitrB-y_CKphw)
+
