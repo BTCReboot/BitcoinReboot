@@ -41,6 +41,9 @@ qmake
 make
 ```
 
+If you find bignum.h error, install libssl1.0-dev not libssl-dev.
+
+
 Shortcuts:
 ```{r, engine='bash'}
 # Checkout
